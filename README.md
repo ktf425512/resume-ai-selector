@@ -1,4 +1,4 @@
-# AI Resume Semantic Matcher
+# AI Resume Selector
 
 **End-to-End AI-Powered Resume Screening & Matching System**
 
